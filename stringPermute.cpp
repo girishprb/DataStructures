@@ -1,4 +1,4 @@
-/*Use Hashmap to check for collisions, maintain the counts*/
+/*Takes two strings as inputs and checks if the two strings are permutations of each other*/
 #include<iostream>
 #include<map>
 #include<string>
